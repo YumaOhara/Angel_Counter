@@ -1,4 +1,4 @@
-# Angel_Counter
+# Counter
 This code is made for counting pulse in M5Stack
 
 # pulse counter
